@@ -1,0 +1,14 @@
+.word {
+    cursor: pointer;
+    padding: 0 4px;
+}
+
+.word:hover {
+background-color: #f0f0f0;
+}
+
+.highlight {
+    background-color: yellow;
+    transition: background-color 0.2s;
+    /* color: green; */
+}
